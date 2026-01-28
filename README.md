@@ -71,6 +71,6 @@ This program simulates the work of a Technical Account Manager embedded with a S
 
 ## Professional Positioning
 
-This case represents how I work as an **Executive Cloud Advisor** — bridging engineering, security, finance, and leadership to operationalize cloud trust.
+This case represents how I work as an **Executive Cloud Advisor** bridging engineering, security, finance, and leadership to operationalize cloud trust.
 
 My focus is not only technical remediation, but building the systems, governance, and visibility structures that allow leadership to scale without hidden risk.
