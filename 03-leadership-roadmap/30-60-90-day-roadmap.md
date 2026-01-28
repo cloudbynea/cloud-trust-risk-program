@@ -182,5 +182,3 @@ Each quarterly review refreshes:
 • ownership accountability
 
 This ensures the program evolves with the business.
-
-xt phase.
