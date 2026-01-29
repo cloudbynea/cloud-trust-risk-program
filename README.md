@@ -1,3 +1,5 @@
+![Cloud Trust & Risk Program](assets/visuals/cloud-trust-risk-thumbnail.png)
+
 # Cloud Trust & Risk Program — Cybersecurity SaaS
 
 ## Technical Account Management & Executive Cloud Advisory Portfolio
