@@ -102,21 +102,21 @@ business outcome here?" Then brief them in their language.
 
 ## What NOT to Do (Common Mistakes)
 
-### ❌ Don't use this as a template to copy exactly
+###  Don't use this as a template to copy exactly
 Every customer is different. This case is for fintech + healthcare + security SaaS. 
 Your customers might be different. Adapt the methodology, don't clone the framework.
 
-### ❌ Don't present these artifacts to customers without context
+###  Don't present these artifacts to customers without context
 A risk heatmap without explanation feels like finger-pointing. 
 A governance roadmap without stakeholder alignment feels like you're imposing solutions.
 Always start with "here's what we've learned together," not "here's what you should do."
 
-### ❌ Don't assume the customer wants this level of structure
+###  Don't assume the customer wants this level of structure
 Some customers are ready for quarterly risk reviews. Others still need hand-holding 
 through basic onboarding. Your job is to meet them where they are, then help them 
 see the value of moving to a more structured operating model.
 
-### ❌ Don't do this work alone
+###  Don't do this work alone
 This case shows a CSM embedded with a customer's leadership. That means you need 
 sales buy-in, product support, and sometimes escalation to senior leadership. 
 Don't try to run a cloud trust program without organizational support.
