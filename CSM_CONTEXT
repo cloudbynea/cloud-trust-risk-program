@@ -1,0 +1,159 @@
+# Why a Customer Success Manager Should Read This
+
+**TL;DR:** This case study shows how to move from "supporting a customer's 
+infrastructure" to "partnering with a customer's leadership on business risk."
+
+---
+
+## The CSM Problem This Solves
+
+You have a customer. Their cloud environment is technically sound. But you sense 
+something's wrong:
+
+- They're not adopting governance best practices
+- Their team doesn't understand their actual risk exposure
+- Leadership doesn't see cloud as a business system—they see it as a cost center
+- There's no roadmap, just reactive fire-fighting
+
+**How do you move them from reactive to proactive?**
+
+This case documents exactly that.
+
+---
+
+## What This Case Teaches
+
+### 1. How to Assess Real vs. Assumed Risk
+
+Most customers think: "Our audits pass, we're compliant."
+
+What a CSM sees: "Audits pass on paper, but is the team actually operating safely?"
+
+This case shows how to surface the gap—the difference between "compliant on paper" 
+and "actually resilient." That gap is where customer churn lives.
+
+**CSM Application:** Your next quarterly review should include a risk assessment 
+that answers: "Are they confident in their actual posture, or just their audit results?"
+
+### 2. How to Translate Infrastructure into Business Risk
+
+Your customer's CTO cares about: Technical debt, uptime, optimization.  
+Your customer's CFO cares about: Regulatory exposure, breach cost, operational efficiency.  
+Your customer's CEO cares about: Revenue risk, board liability, competitive trust.
+
+Same cloud environment. Three different risk languages.
+
+This case shows how to speak all three—and how to use each one at the right time.
+
+**CSM Application:** In your QBR, don't just report "we've hardened IAM governance." 
+Report "we've reduced audit findings by 60%, which protects renewal and supports your 
+SOC 2 certification timeline."
+
+### 3. How to Build Operating Rhythms That Prevent Churn
+
+The worst moment to discover a customer is unhappy is at renewal.
+
+Better: Catch it 6 months early through structured engagement.
+
+This case documents the operating models—quarterly reviews, executive dashboards, 
+risk heatmaps—that create visibility *before* you need to save a renewal.
+
+**CSM Application:** Don't wait for a customer to come to you. Build a calendar: 
+Q1 risk assessment, Q2 remediation roadmap, Q3 outcome validation, Q4 renewal conversation. 
+Each interaction surfacing data that prevents surprise.
+
+### 4. How to Partner with Leadership Without Being Prescriptive
+
+A customer's CTO might reject your governance recommendations as "too much overhead."
+
+But if you brief their CFO on the regulatory risk, and their CEO on the breach cost, 
+suddenly the CTO's objections become a leadership conversation, not a technical dispute.
+
+This case shows how to navigate that—not by overriding engineering, but by bringing 
+the business case to the right stakeholders.
+
+**CSM Application:** When you hit technical resistance, ask: "Who actually owns the 
+business outcome here?" Then brief them in their language.
+
+---
+
+## How This Repo Connects to Core CSM Competencies
+
+| CSM Competency | What This Case Shows | How to Apply It |
+|--|--|--|
+| **Technical Credibility** | You understand cloud architecture, governance, and risk deeply enough to diagnose real problems | Speak confidently about their infrastructure. Customers trust CSMs who know what they're talking about. |
+| **Stakeholder Alignment** | You know how to navigate competing priorities (engineering wants speed, compliance wants control) | Map your customers' stakeholders. Speak to each in their language. |
+| **Adoption Risk Identification** | You spot adoption blockers 6 months early (governance gaps, skills gaps, organizational misalignment) | In your reviews, ask: "What's slowing your adoption of this capability?" Listen for the real answer. |
+| **Retention & Expansion Logic** | You understand that churn risk isn't usually about the product—it's about whether the customer feels confident in their outcomes | Measure whether your customer *understands* their progress, not just whether progress happened. |
+| **Operating Rhythm & Governance** | You build repeatable customer engagement structures (not ad hoc check-ins) | This case shows what a real operating rhythm looks like—calendar it, measure it, iterate on it. |
+
+---
+
+## Read This First, Then Navigate the Case
+
+1. **Start here (this file)** — Understand why this matters for CSM thinking
+2. **Read `01-executive-overview/`** — See how the case opens (business context, not technical detail)
+3. **Skim `02-risk-assessment/`** — Understand the diagnostic methodology (how to identify real risk)
+4. **Study `03-leadership-roadmap/`** — See how to structure a customer roadmap (not features, outcomes)
+5. **Reference `04-operating-models/`** — When you're designing your own QBR cadence or governance model
+6. **Use `05-artifacts/`** — Templates you can adapt for your customers
+
+---
+
+## What NOT to Do (Common Mistakes)
+
+### ❌ Don't use this as a template to copy exactly
+Every customer is different. This case is for fintech + healthcare + security SaaS. 
+Your customers might be different. Adapt the methodology, don't clone the framework.
+
+### ❌ Don't present these artifacts to customers without context
+A risk heatmap without explanation feels like finger-pointing. 
+A governance roadmap without stakeholder alignment feels like you're imposing solutions.
+Always start with "here's what we've learned together," not "here's what you should do."
+
+### ❌ Don't assume the customer wants this level of structure
+Some customers are ready for quarterly risk reviews. Others still need hand-holding 
+through basic onboarding. Your job is to meet them where they are, then help them 
+see the value of moving to a more structured operating model.
+
+### ❌ Don't do this work alone
+This case shows a CSM embedded with a customer's leadership. That means you need 
+sales buy-in, product support, and sometimes escalation to senior leadership. 
+Don't try to run a cloud trust program without organizational support.
+
+---
+
+## Questions to Ask Yourself After Reading This
+
+These questions help you figure out if/how this applies to your customers:
+
+1. **Does my customer have executive visibility into cloud risk?**  
+   If no → This case shows how to build it.
+
+2. **Is my customer's adoption of governance features intentional or accidental?**  
+   If accidental → They need the "why" conversation that this case documents.
+
+3. **Do I have a structured cadence for reviewing customer health, or am I reactive?**  
+   If reactive → This case shows how to structure it.
+
+4. **Could my customer articulate their biggest cloud risk to their CFO?**  
+   If no → They need a risk translation conversation (this case shows how).
+
+5. **Am I at risk of losing this customer to competitive alternatives?**  
+   If yes → Is it a product issue, or an engagement/confidence issue? This case helps you diagnose.
+
+---
+
+## One More Thing
+
+This case is about a cybersecurity SaaS company. But the principles apply across 
+industries:
+
+- **Fintech:** Replace "security" with "compliance" and "audit findings" with "regulatory pressure"
+- **Healthcare:** Replace "security" with "HIPAA compliance" and "audit findings" with "patient data protection"
+- **SaaS ops teams:** Replace "cloud governance" with "cost governance" or "performance governance"
+
+The underlying principle is the same: **Move customers from reactive operations to 
+proactive partnership through structured visibility and executive alignment.**
+
+That's CSM work.
